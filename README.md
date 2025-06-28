@@ -1,5 +1,5 @@
 刷取Commits
-次数记录：1，
+次数记录：1，2
 <div align="center">
 
 
